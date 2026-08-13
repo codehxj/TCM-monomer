@@ -4,9 +4,9 @@ This repository contains data, supplementary materials, and analysis files assoc
 
 ## Contents
 
-- `data/` — processed data used in the analyses
+- `.csv` or `.xlsx` — processed data used in the analyses
 - `supplementary/` — supplementary tables and supporting materials
-- `figures/` — figure-related source data
+- `submission_figures/` — figure-related source data
 - `code/` — scripts used for data processing, analysis, and visualization
 
 ## Data Description
